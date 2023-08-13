@@ -7,3 +7,7 @@ Personal notes on AI/ML
 - https://github.com/ggerganov/llama.cpp
 ## Non Transformer LLMs
 - https://github.com/BlinkDL/RWKV-LM
+
+# Recommendation systems
+## Meta Explore
+- https://engineering.fb.com/2023/08/09/ml-applications/scaling-instagram-explore-recommendations-system/
